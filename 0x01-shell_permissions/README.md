@@ -1,1 +1,1 @@
-Shell basic commands
+This foldere is about permission comands
